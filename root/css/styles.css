@@ -1,0 +1,65 @@
+header{
+    height: 200px;
+    margin: -38px;
+    
+    background-image: url('../img/fondo azul.jpg');
+    background-size: cover;
+    color:white;
+    text-align: center;
+}
+h1{
+    position: absolute; 
+    left: 42%;
+    top: 25px;
+}
+.icon-home{
+    color: white;
+    position: absolute;
+    left: 50%;
+}
+
+#perfil{
+position: relative;
+top: 36px;
+left: 43%;
+width: 250px;
+height: 300px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+    color:black ;
+}
+.main-inicio{
+    text-align: center;   
+}
+
+footer{
+    text-align: center;
+}
+.main-perfil{
+    font-size: 20px;
+    
+}
+.titulos{
+    font-size: 30px;
+    color: white;
+    background-color: rgb(5, 5, 97);
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.home-icon{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    color: white;
+    }
+
+
+
